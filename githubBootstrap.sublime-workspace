@@ -1,0 +1,430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"make",
+				"makePhrase"
+			],
+			[
+				"word",
+				"wordcount"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bootstrapTemplate.html",
+			"settings":
+			{
+				"buffer_size": 2191,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/HTML.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 288.0,
+		"history":
+		[
+			"print (\"swag\")",
+			"print \"swag\"",
+			"print(%PATH%)",
+			"%PATH%",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/InPath/basicBootstrap.html.htm",
+		"/C/InPath/bootstrapTemplate.html",
+		"/C/Users/Dylan/Google Drive/Programming/github/bootstrapTemplate/bootstrapTemplate.html",
+		"/C/Users/Dylan/Dropbox/Public/Strapon/Typing/BootstrapTemplate.html",
+		"/C/InPath/newBoot",
+		"/C/Users/Dylan/Dropbox/Public/Strapon/Type 2/js/affix.js",
+		"/C/Program Files (x86)/Emcee/default_Emcee.cfg",
+		"/C/Users/Dylan/Desktop/test/t.bat",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Program Files/zabkat/xplorer2/changes.txt",
+		"/C/Users/Dylan/Desktop/test/t2.bat",
+		"/C/Program Files/7-Zip/readme.txt",
+		"/C/Users/Dylan/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-build",
+		"/C/Users/Dylan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Dylan/Dropbox/Public/Strapon/Typing/dist/js/jquery1.js",
+		"/C/Users/Dylan/Dropbox/Public/Strapon/Typing/dist/js/jquery.min",
+		"/C/Users/Dylan/Dropbox/Public/Strapon/Typing/style.css",
+		"/C/Users/Dylan/Dropbox/Public/Strapon/Typing/backup.html",
+		"/C/Users/Dylan/Desktop/My Mobile/MyMobiler/mymobiler.ini",
+		"/D/Downloads/!Torrents/XYplorer.v14.20.0200-CRD - [ATOM]/cxx3559a/crude.nfo",
+		"/D/Downloads/!Torrents/Total Commander 8.51 Final x86-x64 +New Key/Flaubert Release-Readme!.txt",
+		"/C/Path/persistent_state",
+		"/C/Users/Dylan/Dropbox/Public/Strapon/Typing/dist/js/jquery.js",
+		"/C/Users/Dylan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Dylan/SkyDrive/Documents/Evernote2.enex",
+		"/C/Users/Dylan/SkyDrive/Documents/Evernote.enex",
+		"/C/Users/Dylan/AppData/Roaming/Listary/UserData/Humble Bundle.html",
+		"/C/Users/Dylan/AppData/Roaming/Listary/UserData/Preferences.json",
+		"/C/Program Files/Sublime Text 3/sublime.py",
+		"/C/Program Files/Sublime Text 3/ sublime.py",
+		"/C/Program Files/Sublime Text 3/ sublime",
+		"/C/Program Files/Sublime Text 3/ sublime.txt",
+		"/C/Users/Dylan/AppData/Roaming/Listary/UserData/History_v2.sqlite-journal",
+		"/C/Users/Dylan/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/Dylan/SkyDrive/Documents/23072014_120021/Image0000019.txt",
+		"/C/Users/Dylan/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/Downloads/!Torrents/NuanceOmnipage19UR/Readme.nfo",
+		"/C/Users/Dylan/Downloads/adt-bundle-windows-x86_64-20140321/adt-bundle-windows-x86_64-20140321/sdk/platform-tools/file.txt",
+		"/D/Downloads/!Torrents/NuanceOmnipage19UR/Registration/serial.txt",
+		"/C/Program Files (x86)/Google/Chrome/Application/master_preferences",
+		"/C/Users/Dylan/Desktop/MonkeyCity_secure.swf",
+		"/D/HK Autosave Slot",
+		"/C/Minecraft/Servers/YogscastCompletePack_2874RRYOGS/server.log",
+		"/C/Users/Dylan/Documents/words.csv",
+		"/C/Users/Dylan/SkyDrive/Documents/file.html",
+		"/C/Windows/System32/energy-report.html",
+		"/C/Users/Dylan/SkyDrive/Documents/AnalyzeSystem.xml",
+		"/C/Minecraft/Servers/YogscastCompletePack_2874RRYOGS/server.log.1",
+		"/C/Minecraft/Servers/YogscastCompletePack_2874RRYOGS/server.log.lck",
+		"/C/Minecraft/Servers/YogscastCompletePack_2874RRYOGS/server.log.1.lck",
+		"/C/Users/Dylan/Documents/HopeThisHelps.rtf",
+		"/C/Users/Dylan/Downloads/HopeThisHelps (1).rtf",
+		"/D/Downloads/~Torrents/Adobe Photoshop CC 2014 (64 bit) (Crack) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/C/Minecraft/Instances/YogscastCompletePack/instance.json",
+		"/C/Users/Dylan/AppData/Local/Temp/Temp1_explorer++_1.3.5_x64.zip/Readme.txt",
+		"/C/Users/Dylan/Desktop/test.reg",
+		"/C/Users/Dylan/AppData/Local/Temp/scoped_dir3264_8691/ListaryTutorial/TextFile2.txt",
+		"/D/Apps/Aptana/full_uninstall.txt",
+		"/D/Downloads/!Torrents/STARLIGHT.INCEPTION-POSTMORTEM/postmortem.nfo",
+		"/D/Downloads/Freelancer.PC.Game(djDEVASTATE™)/Read Me.txt",
+		"/C/Users/Dylan/Downloads/adt-bundle-windows-x86_64-20140321/adt-bundle-windows-x86_64-20140321/sdk/platform-tools/adb.exe",
+		"/C/Users/Dylan/Documents/blop.vbs",
+		"/C/Users/Dylan/AppData/Local/Microsoft/Windows/appsFolder.itemdata-ms",
+		"/D/Apps/Transistor/x64/Transistor.exe.config",
+		"/C/Users/Dylan/Downloads/Adobe Photoshop CC 2014 (64 bit) (Crack) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/C/Users/Dylan/Downloads/HideOthers.ahk",
+		"/C/Users/Dylan/AppData/Local/Microsoft/Windows/appsFolder.itemdata-ms.bak",
+		"/C/Users/Dylan/Documents/terminal.glue"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\. ",
+			"\\.",
+			":",
+			"        ",
+			"\\n",
+			"set",
+			"test",
+			"<script type=\"text/javascript\" src=\"dist/js/jquery1.js\"></script>",
+			"    <script type=\"text/javascript\" src=\"dist/js/jquery1.js\"></script>\n",
+			" <script type=\"text/javascript\" src=\"dist/js/jquery1.js\"></script>",
+			"$",
+			"shift+r",
+			"../../",
+			"(?<!new) tab",
+			"tab",
+			";",
+			"folder",
+			"path",
+			"Anomaly Korea",
+			"title",
+			"\\.title",
+			";",
+			" ;",
+			"\\n ;\\n",
+			"\\n ;",
+			";;+",
+			"	",
+			"FreeCD Key",
+			"Purchase",
+			"$",
+			"</li>",
+			"<li class=\"nb\"><input type=\"checkbox\">&nbsp;",
+			"<li",
+			"  +",
+			"\\*",
+			"\\n\\n+",
+			"141.219.153.205   (\\d+).*",
+			"(141.219.153.205   \\d+).*",
+			":",
+			".*TIME_WAIT\\n",
+			"tcp        0      0 ",
+			";\\n",
+			";",
+			"�",
+			"�  ",
+			"\"GET",
+			"\"",
+			";"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			".\\n",
+			":\\n\\n",
+			":\\n",
+			"",
+			"/",
+			";\\n",
+			";",
+			"",
+			";",
+			"Free CD Key",
+			";FreeCD Key",
+			";Purchase",
+			";$",
+			",$",
+			"",
+			"\\n<li",
+			" ",
+			"-",
+			"\\n",
+			"\\1   ",
+			"   ",
+			"",
+			";",
+			";\\n",
+			"",
+			"\\n\"GET",
+			"\\n\"",
+			";\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bootstrapTemplate.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								924,
+								924
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 291.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 139.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "githubBootstrap.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\InPath\\lol\\inPath.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
