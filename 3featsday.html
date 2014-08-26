@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<!-- saved from url=(0050)http://getbootstrap.com/examples/starter-template/ -->
+<html lang="en">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
+    <!-- Bootstrap core CSS -->
+
+    <!-- Bootstrap core CSS -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/style.css" rel="stylesheet">    
+    
+
+    
+    <title>Starter Template for Bootstrap</title>
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="http://getbootstrap.com/examples/starter-template/#" id="bop">Swagsss for daze</a>
+
+        </div>
+      </div>
+    </div>;
+
+    <div class="container">
+
+      <div class="starter-template">
+      <!-- BOP BOP BOP BOPB OP ================================================== -->
+    
+        <h2>Happy Feats Day</h2>
+        <div style="text-align:left">
+        <button type="button">
+          <h3>F e a t s</h3>
+          <p style="width:200px;text-align:left">A feat represents a talent or an area of expertise that gives 
+          a character special capabilities.</p>
+        </button>
+        <button type="button">
+          <h3>F e a t s</h3>
+          <p style="width:200px;text-align:left">A feat represents a talent or an area of expertise that gives 
+          a character special capabilities.</p>
+        </button>
+        <button type="button">
+          <h3>F e a t s</h3>
+          <p style="width:200px;text-align:left">A feat represents a talent or an area of expertise that gives 
+          a character special capabilities.</p>
+        </button>
+        <button type="button">
+          <h3>F e a t s</h3>
+          <p style="width:200px;text-align:left">A feat represents a talent or an area of expertise that gives 
+          a character special capabilities.</p>
+        </button>
+        <button type="button">
+          <h3>F e a t s</h3>
+          <p style="width:200px;text-align:left">A feat represents a talent or an area of expertise that gives 
+          a character special capabilities.</p>
+        </button>
+
+
+
+
+
+
+        </div>
+        <form action="pg3">
+          <input type="submit" value="Continue">
+        </form>
+
+
+
+
+      <!-- BOP BOP BOP BOPB OP ================================================== -->  
+      </div>
+
+
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./js/jquery.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/persist-min.js"></script>
+    <script type="text/javascript">
+      var store = new Persist.Store('My Application');
+      // store.set('some_key', 'this is a bunch of persistent data');
+
+
+      $("#bop").html(store.get('some_key'));
+
+      store.get('some_key', function(ok, val) {
+        if (ok) {
+          console.log(val)
+        }
+      });
+      // console.log(store.get('some_key'))
+
+    </script>
+  
+
+</body></html>

@@ -12,7 +12,7 @@
     <!-- Bootstrap core CSS -->
 
     <!-- Bootstrap core CSS -->
-    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/style.css" rel="stylesheet">    
     
 
@@ -34,7 +34,8 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="http://getbootstrap.com/examples/starter-template/#">Swag for daze</a>
+          <a class="navbar-brand" href="http://getbootstrap.com/examples/starter-template/#" id="bop">Swagsss for daze</a>
+
         </div>
       </div>
     </div>;
@@ -42,9 +43,14 @@
     <div class="container">
 
       <div class="starter-template">
-        <h2>Welcome luigi, to a world of spaghetti</h2>
-        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document. asdasd </p>
+      <!-- BOP BOP BOP BOPB OP ================================================== -->
+    
+
+
+      <!-- BOP BOP BOP BOPB OP ================================================== -->  
       </div>
+
+
 
     </div><!-- /.container -->
 
@@ -52,8 +58,25 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="./js/jquery.min.js"></script>
+    <script src="./js/jquery.js"></script>
     <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/persist-min.js"></script>
+    <script type="text/javascript">
+      var store = new Persist.Store('My Application');
+      store.set('some_key', 'this is a bunch of persistent data');
+
+
+      $("#bop").html(store.get('some_key'));
+
+      store.get('some_key', function(ok, val) {
+        if (ok) {
+          //alert('some_key = ' + val);
+          console.log(val)
+        }
+      });
+      // console.log(store.get('some_key'))
+
+    </script>
   
 
 </body></html>
